@@ -1,0 +1,27 @@
+.prekiu-lentele {
+  margin: 0 auto;
+  border-collapse: collapse;
+  font-family: sans-serif;
+  width: 100%;
+  max-width: 800px;
+}
+
+.prekiu-lentele th,
+.prekiu-lentele td {
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+.pelno-laukas {
+  font-weight: bold;
+  color: green;
+}
+
+.statistika {
+  margin-top: 20px;
+  max-width: 800px;
+  margin-inline: auto;
+  text-align: left;
+  font-family: sans-serif;
+}
